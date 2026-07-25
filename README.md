@@ -1,3 +1,5 @@
+#Hi there, I'm Sakshi!
+
 # 💫 About Me:
  I’m currently working on improving my technical skills in Computer Science<br> I’m looking to collaborate on beginner-friendly tech projects<br> I’m looking for help with career guidance and skill growth<br> I’m currently learning programming, problem solving & core CS concepts<br> Ask me about basic coding, study strategies & student life<br>I believe consistency matters more than talent
 
